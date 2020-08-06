@@ -19,6 +19,8 @@ class Main {
                 if (i < inhabitants.length - 1) {
                     if (inhabitants[i] != 0 && inhabitants[i + 1] == 0) {
                         inhabitants[i] /= 2;
+
+                        // gvuyfcjgkckutc
                     }
                     if (inhabitants[i] == 0 && inhabitants[i + 1] != 0) {
                         inhabitants[i + 1] /= 2;
